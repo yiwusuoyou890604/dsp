@@ -39,9 +39,6 @@
             <el-col :class="'uploadidea'" :span="24">
                 上传创意
             </el-col>
-            <!-- <el-col :class="'Originalitytype'" :span="24">
-               <span>创意一</span><span>创意二</span><span :class="'addidea'">+添加创意</span>
-            </el-col> -->
             <el-col :class="'addidea'" :span="24">
                 +添加创意
             </el-col>
